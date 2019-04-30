@@ -1,0 +1,371 @@
+﻿EC #,Age,Sex,Ethnicity,Race,Seizure Foci + hemisphere,Language Dominance,Handedness,Age of first seizure,Surgical_Treatment,Resection?,NeuroPace?,History of Depression?,Depressed,Antipsychotic,Meds at time of surgery,MTLE,
+EC82,60,M,Not Hispanic/Latino,White or Caucasian,Refractory epilepsy localized to the left medial temporal lobe.,Left per WADA,Right,54,yes,underwent a left anterior temporal lobe resection on 4/11/15,no,denied a history of depression or other significant mental health problem before the onset of his epilepsy at age 57. He has never been treated for a mental health disorder and does not have a history of psychiatric hospitalization or suicidal ideation. ,No,,"Lacoamide (Vimpat) 200mg 
+Oxcarbazepine (Trileptal) 300mg  
+HYDROmorphone (DILAUDID) injection syringe 0.2-0.8 mg 
+ondansetron (ZOFRAN) injection 4 mg  or tablet 
+oxyCODONE (ROXICODONE) tablet 5-10 mg ",MTL,
+EC84,30,M,?,White or Caucasian,Refractory epilepsy localized to the right temporal lobe. Anterior temporal lobectomy. RATL,,Left Handedness,24,yes,R ATL,No,"Chronic, ongoing depression",No,Yes,"OXcarbazepine (TRILEPTAL)
+dexamethasone (DECADRON) 
+haloperidol (HALDOL) 
+morphine (MSIR) 
+senna (SENOKOT) 8.6 mg tablet   
+
+",MTL,
+EC87,53,F,European/European Descent,White or Caucasian,Refractory epilepsy localized to the right lateral and orbitofrontal lobe,na,Right,na,yes,Right Frontal Resection,No,"1. Anxious NOS 
+2. Major depression 
+(Neuropsych done at North Western)
+",Yes,,"DULoxetine (CYMBALTA) DR capsule 6* 
+levETIRAcetam (KEPPRA) tablet 1,00* 
+mirtazapine (REMERON) tablet 30 mg  
+lamoTRIgine (LAMICTAL) tablet 300 mg  
+fentaNYL (SUBLIMAZE) injection  
+ondansetron (ZOFRAN) injection  
+diphenhydrAMINE (BENADRYL) injection ",Yes,
+EC91,27,F,Black/African American,na,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, with intractable epilepsy. Removal of right anterior lateral temporal lobe.",left,Right,~26,yes,Right Anterior Lateral Temporal Lobe,No,reports minimal depression,No,,"OXcarbazepine (TRILEPTAL)
+morphine (MSIR)
+levETIRAcetam (KEPPRA) 
+dexamethasone (DECADRON)
+OXcarbazepine (TRILEPTAL) 
+LORazepam (ATIVAN)",Yes,
+EC92,26,M,White or Caucasian,European,Left Amygdala and Hippocampus,Left,Right,19,yes,Left ATL Resection,No,mild symptoms of depression and anxiety prior to admission,No,,"LORazepam (ATIVAN) 1 mg tablet
+OXcarbazepine (TRILEPTAL) 300 mg tablet
+dexamethasone (DECADRON) 1 mg tablet
+diazepam (VALIUM) 5 mg tablet",MTL,
+EC96,32,F,Black/African American,Black/African American,Refractory epilepsy localized to right temporal lobe. Anterior temporal lobectomy.,left (WADA),Left,27,yes,Anterior medial temporal,No,reports minimal depression,No,,"levETIRAcetam (KEPPRA)
+dexamethasone (DECADRON)
+HYDROcodone-acetaminophen (NORCO)
+",Yes,
+EC99,20,F,White or Caucasian,na,Refractory epilepsy. Seizures localized to right SMG lesion.,Left(WADA),Right,lifetime,yes,Right frontoparietal craniotomy,No,Neuropsych showed depression and anxiety like symptoms,No,,"oxyCODONE (ROXICODONE)
+dexamethasone (DECADRON)
+levETIRAcetam (KEPPRA)
+zonisamide (ZONEGRAN)",No,
+EC100,28,F,Other,Mexican,Left anterior insula / Sub frontal opercular region,Left per handedness,Right,lifelong,yes,Left Insular region,No,Major Depression with psychosis,No,,"dexamethasone (DECADRON)
+HYDROcodone-acetaminophen (NORCO)
+clonazePAM (KLONOPIN) 
+carBAMazepine (TEGRETOL) 
+",No,
+EC107,30,M,na,na,Hippocampus,NA,Right,na/lifelong,yes,Hippocampus,na,"History of Depression and past suicide attempt, but not currently treated for depression",No,,"HYDROcodone-acetaminophen (NORCO)
+dexamethasone (DECADRON)
+levETIRAcetam (KEPPRA) 500 mg tablet
+zonisamide (ZONEGRAN)",MTL,
+EC108,20,F,na,White/Caucasian,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, with intractable epilepsy. Epilepsy localized to the left temporal lobe. Removal of left anterior temporal lobe.",Left,Right,na,yes,Left Anterior medial temporal structure,No,NA,No,,"fentaNYL (PF) (SUBLIMAZE) injection 25-50 mcg 
+ levETIRAcetam (KEPPRA) 1,000 mg ta*     
+LORazepam (ATIVAN) injection 2 mg  
+ondansetron (ZOFRAN) injection 4 mg ",MTL,
+EC110,33,F,"European
+(there is a note that says they are Hispanic/Latino as well)",Other,Placed RNS leads in the interhempishpereic region and posterior right frontal lobe.,na,Right,9,yes,No,Yes,No,No,,"oxyCODONE (ROXICODONE) 
+levETIRAcetam (KEPPRA)
+HYDROcodone-acetaminophen (NORCO)
+dexamethasone (DECADRON) 
+carBAMazepine (TEGRETOL XR) 
+",No,
+EC111,22,F,na,Asian,Bilateral Hippocampus,na,Right,12,yes,No,"No, though was offered it",History of mild anxiety,No,,"topiramate (TOPAMAX) 200 mg tablet
+HYDROcodone-acetaminophen (NORCO)
+lamoTRIgine (LAMICTAL) 
+
+",Yes,
+EC112,34,F,other,other,Fusiform Lesion? - not sure,na,Right,3-Feb,yes,Fusiform Lesion,No,Na - no neuropsych report before emu visit,No,,"levETIRAcetam (KEPPRA) 
+LORazepam (ATIVAN)
+OXcarbazepine (TRILEPTAL)
+dexamethasone (DECADRON) 
+HYDROcodone-acetaminophen (NORCO) 
+OXcarbazepine (TRILEPTAL)",No,
+EC113,22,M,White or Caucasian,European,Left Hippocampus and Anterior Temporal Lobe,na,Right,8,yes,Medial Temporal resection and Temporal Pole resection,No,Reported symptoms of depression,No,,"dexamethasone (DECADRON)
+lamoTRIgine (LAMICTAL)
+divalproex (DEPAKOTE ER) 
+levETIRAcetam (KEPPRA) 
+",Yes,
+EC115,24,M,Not Hispanic/Latino,Black or African American,"2 independent foci: 
+·right frontal (dorsal lateral) 
+·left lateral temporal",Left per handedness,Right,10,No,No,No,No,No,,"acetaminophen (TYLENOL) tablet 500 mg
+HYDROmorphone (DILAUDID) injection syringe 0.2-0.6 mg 
+lacosamide (VIMPAT) tablet 300 mg
+levETIRAcetam (KEPPRA) tablet 2,000 mg
+lidocaine (PF) (XYLOCAINE) 100 mg/5 mL (2 %) injection 
+LORazepam (ATIVAN) injection 2 mg 
+oxyCODONE (ROXICODONE) tablet 10 mg",No,
+EC118,31,F,European,White or Caucasian,Left mesial temporal lobe and insula,Left per MEG,Right,,yes,L ATL,Yes,Yes,No,,"LORazepam (ATIVAN) 
+pregabalin (LYRICA) 
+dexamethasone (DECADRON)
+HYDROcodone-acetaminophen (NORCO)
+clonazePAM (KLONOPIN) 
+
+",Yes,
+EC119,21,F,Not Hispanic/Latino,European,Left Hippocampus,NA,Right,14,yes,Temporal Lobectomy before coming to UCSF,No,No (only mild symptoms),Yes,,"oxyCODONE (ROXICODONE) 10 mg tablet
+LORazepam (ATIVAN) 2 mg/mL concentrated solution
+lamoTRIgine (LAMICTAL) 150 mg tablet
+venlafaxine (EFFEXOR-XR) 75 mg 24 hr capsule
+zonisamide (ZONEGRAN) 100 mg capsule
+",Yes,TLE
+EC125,35,M,NA,White/Caucasian,Refractory epilepsy localized to the right temporal lobe. Anterior temporal lobectomy.,Left,Right,3,yes,Right Anterior Medial Temporal,No,Moderate symptoms of depression,No,,"OXcarbazepine (TRILEPTAL) 
+dexamethasone (DECADRON)
+LORazepam (ATIVAN)
+oxyCODONE (ROXICODONE) 
+lamoTRIgine (LAMICTAL)",Yes,
+EC129,33,F,Hispanic/Latino,Other,Refractory epilepsy localized to the right superior frontal gyrus,NA,Right,8,yes,Superior Frontal Gyrus,No,No,no,,"lamoTRIgine (LAMICTAL XR) 100 mg TABER24H
+levETIRAcetam (KEPPRA) 750 mg tablet
+dexamethasone (DECADRON) 1 mg tablet
+oxyCODONE (ROXICODONE) 5 mg tablet",No,
+EC130,24,F,Not Hispanic or Latino,White or Caucasian,"Hippocampus, hetertopic GM",NA,Right,18,yes,No,yes,Yes,no,,"carBAMazepine (TEGRETOL) 
+topiramate (TOPAMAX) 50 mg 
+HYDROcodone-acetaminophen (NORCO)
+",No,
+EC131,28,M,Not Hispanic or Latino,White or Caucasian,L Anterior Temporal Lobe,Left per handedness,Right,22,yes,L Ant Temoporal Lobe,No,Yes,no,,"acetaminophen (TYLENOL) tablet 500 mg 
+cloBAZam (ONFI) tablet 20 mg 
+HYDROcodone-acetaminophen (NORCO) 10-325 mg tablet 
+HYDROmorphone (DILAUDID) injection syringe 0.2-0.6 mg 
+levETIRAcetam (KEPPRA) tablet 3,000 mg 
+LORazepam (ATIVAN) injection 1 mg 
+topiramate (TOPAMAX) tablet 100 mg",Yes,
+EC132,67,F,,,,,,,no,No,,,No,,"cholecalciferol, vitamin D3, 1,000 unit CAP
+DILANTIN KAPSEAL 
+LORazepam (ATIVAN) 1 mg tablet",,
+EC133,36,M,Not Hispanic or Latino,White or Caucasian,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, with intractable epilepsy. Removal of left anterior temporal lobe.",Left per handedness,Right,"Auras: 11
+""Big"" seizures: 31",yes,L Anterior Temporal Lobe,No,No,No,,"acetaminophen (TYLENOL) tablet 1,000 mg 
+clonazePAM (klonoPIN) tablet 1 mg
+fentaNYL (PF) (SUBLIMAZE) injection 25-50 mcg 
+HYDROcodone-acetaminophen (NORCO) 5-325 mg tablet 1-2 tablet 
+HYDROmorphone (DILAUDID) injection syringe 0.2-0.6 mg
+lacosamide (VIMPAT) tablet 250 mg 
+levETIRAcetam (KEPPRA) tablet 2,000 mg 
+lidocaine (LIDODERM) 5 % patch 1 patch 
+LORazepam (ATIVAN) injection 2 mg
+morphine injection syringe 2 mg 
+oxyCODONE (ROXICODONE) tablet 10 mg 
+zonisamide (ZONEGRAN) capsule 200 mg",Yes,
+EC135,21,F,Hispanic/ Latino,Other,left middle and inferior anterior temporal gyrus,Left,Right,3,yes,left middle and inferior anterior temporal gyrus,No,No,no,"
+","acetaminophen (TYLENOL) tablet 1,000 mg 
+bupivacaine (PF) (MARCAINE) 5 mg/mL (0.5 %) 30 mL, lidocaine-EPINEPhrine 30 mL solution [
+HYDROmorphone (DILAUDID) injection syringe 0.2-1 mg 
+levETIRAcetam (KEPPRA) tablet 1,500 mg 
+LORazepam (ATIVAN) 2 mg/mL injection
+oxyCODONE (ROXICODONE) tablet 10 mg 
+zonisamide (ZONEGRAN) capsule 100 mg",Yes,
+EC136,23,M,Not Hispanic or Latino,White or Caucasian,Left Temporal Lobe,R per MEG,Ambidextrous,8,yes,L ATL,No,Yes,Yes,,"acetaminophen (TYLENOL) tablet 500 mg 
+carBAMazepine (TEGretol XR) 12 hr tablet 400 mg
+HYDROcodone-acetaminophen (NORCO) 10-325 mg tablet 
+HYDROmorphone (DILAUDID) injection syringe 0.2 mg 
+lacosamide (VIMPAT) tablet 200 mg
+LORazepam (ATIVAN) injection 2 mg 
+remifentanil (ULTIVA) injection 
+venlafaxine (EFFEXOR-XR) 24 hr capsule 75 mg",Yes,
+EC137,20,M,Not Hispanic or Latino,White or Caucasian,Refractory epilepsy. Frequent epileptiform discharges in the middle portion of amygdala and hippocampal depth electrodes. RNS device (R Hipp),Left per MEG,Right,,yes,RNS,Yes,"Depression
+Anxiety",No,,"levETIRAcetam (KEPPRA) tablet 500 *   
+LORazepam (ATIVAN) injection 0.5 mg 
+carBAMazepine (TEGRETOL XR) 400 mg 12 hr ER tablet 
+ondansetron (ZOFRAN) tablet 4 mg  
+oxyCODONE (ROXICODONE) tablet 5-10 mg ",Yes,
+EC139,45,M,Hispanic or Latino,Other,Refractory epilepsy. Localized to the left temporal lobe. Anterior temporal lobectomy.,Left,Right,9,yes,L ATL,No,Yes,No,,"acetaminophen (TYLENOL) tablet/gelcap 500 mg 
+HYDROcodone-acetaminophen (NORCO) 10-325 mg tablet 1-2 tablet 
+HYDROmorphone (DILAUDID) injection syringe 0.2-1 mg 
+lamoTRIgine (LaMICtal) tablet 300 mg
+LORazepam (ATIVAN) injection 2 mg 
+zonisamide (ZONEGRAN) capsule 300 mg",Yes,
+EC142,20,M,"
+Not Hispanic/Latino",White or Caucasian,R supramarginal gyrus,NA,Right Handed,9,yes,R Ant Temp Lobe,No,Yes,no,"
+","acetaminophen (TYLENOL) tablet/gelcap 500 mg 
+HYDROcodone-acetaminophen (NORCO) 10-325 mg tablet 
+HYDROmorphone (DILAUDID) injection 
+lacosamide (VIMPAT) TAB 100 mg 
+levETIRAcetam (KEPPRA XR) TABSR24H 2,250 mg
+LORazepam (ATIVAN) injection 1 mg 
+OXcarbazepine (TRILEPTAL) tablet 900 mg",Yes,
+EC143,21,M,Not Hispanic/Latino,White or Caucasian,"L Temporal Anterior STG, heschl's gyrus and posterior lateral STG",Left per handedness,Right,15,yes,Ant Temporal STG,Yes,no,no,,"acetaminophen (OFIRMEV) IV 1,000 mg 
+acetaminophen (TYLENOL) 500 mg tablet Medication 
+clonazePAM (klonoPIN) tablet 1 mg [9638] 
+HYDROmorphone (DILAUDID) injection syringe 0.2-1 mg 
+lacosamide (VIMPAT) tablet 200 mg 
+LORazepam (ATIVAN) injection 2 mg
+",TLE,
+EC144,44,F,Not Hispanic/Latino,White or caucasian,No clear localization but can spread to R mesial temporal structures,NA,Right,3.5,No,No,No,No,no,,"acetaminophen (TYLENOL) tablet/gelcap 1,000 mg 
+carBAMazepine (TEGretol XR) 12 hr tablet 100 mg 
+HYDROcodone-acetaminophen (NORCO) 10-325 mg tablet 
+HYDROmorphone (DILAUDID) injection syringe 0.2-0.6 mg 
+LORazepam (ATIVAN) injection 2 mg 
+",Na,
+EC148,33,M,Hispanic/Latino,Other,"right frontal, insula, temporal lobe",Left per handedness,Right,14,yes,right anterior temporal lobe and adjacent frontal opercular and orbital frontal cortex,No,No,no,,"acetaminophen (TYLENOL) 500 mg tablet 
+carBAMazepine (TEGretol) tablet 200 mg 
+HYDROcodone-acetaminophen (NORCO) 10-325 mg tablet 1-2 tablet 
+HYDROmorphone (DILAUDID) 1 mg/mL injection syringe 
+lacosamide (VIMPAT) injection 200 mg 
+oxyCODONE (ROXICODONE) tablet 5-10 mg",Yes,
+EC150,40,F,Not Hispanic/Latino,White or Caucasian,"OFC depth (L and R), Dorsal and Ventral Cingulate depths (L and R), Insula depth, Amygdala depth (L and R), Hippocampus depth (L and R)",NA,Right,37,yes,No,No,Yes,no,Yes,"acetaminophen (TYLENOL) 500 mg tablet 
+ARIPiprazole (ABILIFY) tablet 15 mg 
+HYDROcodone-acetaminophen (NORCO) 10-325 mg tablet 
+HYDROmorphone (DILAUDID) injection syringe 0.2-0.6 mg 
+LORazepam (ATIVAN) injection 2 mg
+pregabalin (LYRICA) capsule 100 mg
+",MTLE,
+EC152,40,F,Hispanic/Latino,other,R Rolandic Cortex,NA,Right,12,yes,RNS,Yes,Yes,no,,"acetaminophen (TYLENOL) tablet/gelcap 500 mg 
+HYDROcodone-acetaminophen (NORCO) 10-325 mg tablet 
+lacosamide (VIMPAT) tablet 300 mg
+LORazepam (ATIVAN) injection 1 mg
+PHENobarbital (LUMINAL) tablet 180 mg",Na,
+EC153,36,M,not Hispanic/Latino,White or Caucasian,Right temporal lobe,NA,Right,18,yes,R ATL,No,No,no,,"carBAMazepine (TEGretol XR) 12 hr tablet 200 mg 
+clonazePAM (klonoPIN) tablet 0.5 mg 
+HYDROcodone-acetaminophen (NORCO) 10-325 mg tablet 1-2 tablet 
+HYDROmorphone (DILAUDID) 1 mg/mL injection syringe 
+LORazepam (ATIVAN) injection 0.5 mg 
+oxyCODONE (ROXICODONE) tablet 5-10 mg",MTLE,
+EC154,26,F,not Hispanic/Latino,White or Caucasian,right medial temporal structures,Bilateral per WADA prior to first resection,Left,14,No,RNS,Yes,No,,,,Yes,
+EC155,36,M,Not Hispanic/Latino,white or Caucasian,left temporal lobe (lateral cortex). The onset appears to be regional and overlapped with eloquent language cortex (Wernickes),NA,Right Handed,32,No,RNS,Yes,No,no,,"acetaminophen (TYLENOL) tablet 1,000 mg 
+acetaminophen (OFIRMEV) IV 1,000 mg 
+carBAMazepine (TEGretol XR) 12 hr tablet 600 mg 
+HYDROmorphone (DILAUDID) injection syringe 0.6 mg 
+levETIRAcetam (KEPPRA) injection 
+LORazepam (ATIVAN) injection 2 mg 
+oxyCODONE (ROXICODONE) tablet 5 mg",TLE,
+EC156,36,M,Not Hispanic/Latino,White or Caucasian,L Medial Temporal Lobe over eloquent cortex,Left,Right Handed,29,No,RNS,Yes,No,No,,"acetaminophen (OFIRMEV) IV 1,000 mg 
+acetaminophen (TYLENOL) tablet 1,000 mg 
+HYDROcodone-acetaminophen (NORCO) 5-325 mg
+HYDROmorphone (DILAUDID) injection syringe 0.2-0.6 mg 
+oxyCODONE-acetaminophen (PERCOCET) 5-325 mg tablet 1 tablet 
+perampanel (FYCOMPA) tablet 6 mg 
+zonisamide (ZONEGRAN) capsule 500 mg",TLE,
+EC158,38,F,Not Hispanic/Latino,White or Caucasian,L Frontal Lobe,NA,Right,10,yes,"The resection was a near complete frontal lobectomy, sparing the posteriormost aspects of the frontal lobe including Brocas area and the precentral gyrus",No,No,No,,"acetaminophen (OFIRMEV) IV 1,000 mg 
+acetaminophen (TYLENOL) 325 mg tablet
+bupivacaine (PF) (MARCAINE) 5 mg/mL (0.5 %) 30 mL, lidocaine-EPINEPhrine 30 mL solution 
+clonazePAM (klonoPIN) tablet 0.25 mg 
+HYDROcodone-acetaminophen (NORCO) 5-325 mg tablet 
+HYDROmorphone (DILAUDID) injection syringe 0.2-0.6 mg 
+lamoTRIgine (LAMICTAL) 150 mg tablet 
+LORazepam (ATIVAN) 2 mg/mL injection 
+oxyCODONE (ROXICODONE) tablet 5-10 mg 
+",No,
+EC159,27,F,Hispanic/Latino,Other,"R suboccipital region, inferior temporal gyrus, and hippocampus",Left,Ambidextrous,10,yes,"R lateral inferior temporal gyrus ITG, Amygdala, Hippocampus",No,No,no,,"dexamethasone (DECADRON) injection 3 mg 
+LORazepam (ATIVAN) injection 0.5 mg 
+acetaminophen (TYLENOL) tablet 1,000 mg 
+carBAMazepine (TEGretol XR) 12 hr tablet 400 mg 
+HYDROcodone-acetaminophen (NORCO) 5-325 mg tablet 1-2 tablet 
+HYDROmorphone (DILAUDID) injection syringe 0.2-0.6 mg 
+oxyCODONE (ROXICODONE) tablet 5 mg 
+ondansetron (ZOFRAN) tablet 4 mg",Medial Temporal Lobe,
+EC160,22,F,Not Hispanic/Latino,White or Caucasian,"posterior left parahippocampal gyrus, just behind the residual ganglioglioma.",NA,Right,9,no,No,No,No,no,,"oxyCODONE (ROXICODONE) tablet 5-10 mg' 
+dexamethasone (DECADRON) tablet 3 mg ' 
+acetaminophen (TYLENOL) tablet 500 mg ' 
+OXcarbazepine (TRILEPTAL) tablet 150 mg', 300mg, or 450mg 
+LORazepam (ATIVAN) injection 1 mg 
+lamoTRIgine (LaMICtal) tablet 300 mg '",Na?,
+EC162,43,M,Not Hispanic/Latino,White or Caucasian,L Frontal,Left,Right,20,yes,L SFG,Yes,No,no,,"LORazepam (ATIVAN) injection 2 mg 
+phenytoin (DILANTIN) ER capsule 200 mg 
+acetaminophen (TYLENOL) tablet 500 mg 
+dexamethasone (DECADRON) tablet 3 mg 
+fentaNYL (PF) (SUBLIMAZE) injection 25-50 mcg 
+HYDROcodone-acetaminophen (NORCO) 5-325 mg tablet 1-2 tablet 
+HYDROmorphone (DILAUDID) injection syringe 0.2 mg 
+lacosamide (VIMPAT) tablet 200 mg 
+levETIRAcetam (KEPPRA) tablet 1,000 mg 
+LORazepam (ATIVAN) injection 2 mg 
+ondansetron (ZOFRAN) injection 4 mg 
+oxyCODONE (ROXICODONE) tablet 5 mg",No,
+EC166,34,F,White/Caucasian,European/European Descent,Left Temporal Lobe,N/A Right handed,Right,26,yes,Right Anterior Lobectomy,No,Was reccomended that she received psychotherapy to help manage her anxiety and depression. Not properly diagnosed at time of neuropsych.,no,,"dexamethasone (DECADRON) tablet 1 - 2mg acetaminophen (OFIRMEV) IV 1,000 mg acetaminophen (TYLENOL) tablet 1,000 mg cloBAZam (ONFI) tablet 10-20 mg HYDROmorphone (DILAUDID) injection syringe 0.2-0.6 mg lamoTRIgine (LaMICtal) tablet 150 - 300mg ondansetron (ZOFRAN) tablet 4 mg - 8mg oxyCODONE (ROXICODONE) tablet 5-10 mg topiramate (TOPAMAX) tablet 100 - 200 mg fentaNYL (SUBLIMAZE) injection (25 - 50mgc)",Yes,
+EC170,53,F`,Not Hispanic/ Latino,Asian,"Left inferior lateral temporal-occipital cortex surround encephalmomalacia, hippocampus and amygdala",Bilateral per WADA,Left,childhood,yes,"Left inferior lateral temporal-occipital cortex surround encephalmomalacia, hippocampus and amygdala",No,No,no,,"acetaminophen (TYLENOL) tablet 1,000 mg 
+carBAMazepine (TEGretol XR) 12 hr tablet 300 mg 
+gabapentin (NEURONTIN) capsule 600 mg
+morphine injection syringe 1-3 mg 
+oxyCODONE (ROXICODONE) tablet 5-10 mg 
+zonisamide (ZONEGRAN) capsule 500 mg",No,
+EC175,38,M,Not Hispanic/Latino,White or Caucasian,L Temp Lobe,Left,Right,22,yes,L Amy/Hippocampus,No,No,no,," 
+  
+HYDROmorphone (DILAUDID) injection syringe 0.5 mg 
+oxyCODONE (ROXICODONE) tablet 5 mg 
+LORazepam (ATIVAN) 1 mg tablet
+lamoTRIgine (LAMICTAL XR) 200 mg 24 hr ER tablet 
+dexamethasone (DECADRON) 1 mg tablet 
+acetaminophen (TYLENOL) 500 mg tablet 
+
+
+",MTL,
+EC178,24,M,Not Hispanic/Latino,White or Caucasian,Bilsteral hippocampus,Left per handedness,Right,10 months,no,No,Yes,No,no,,"acetaminophen (OFIRMEV) IV 1,000 mg
+HYDROmorphone (DILAUDID) injection syringe 0.2-0.5 mg
+acetaminophen (TYLENOL) gelcap 1,000 mg
+bupivacaine (PF) (MARCAINE) 30 mL, lidocaine-EPINEPhrine 30 mL solution
+HYDROcodone-acetaminophen (NORCO) 5-325 mg tablet 1 tablet 
+lidocaine (PF) (XYLOCAINE) 100 mg/5 mL (2 %) injection syringe 
+LORazepam (ATIVAN) injection 0.5 mg
+OXcarbazepine (TRILEPTAL) tablet 1,200 mg 
+oxyCODONE (ROXICODONE) tablet 5 mg",Bilateral MTL,
+EC179,46,M,Not Hispanic/Latino,White or Caucasian,R Temporal lobe,,Right,35,yes,R ATL,No,No,no,,"acetaminophen (TYLENOL) tablet 1,000 mg 
+bupivacaine (PF) (MARCAINE) 5 mg/mL (0.5 %) injection 
+fentaNYL (PF) (SUBLIMAZE) injection 50 mcg
+HYDROmorphone (DILAUDID) injection syringe 0.2-0.5
+lamoTRIgine (LAMICTAL) tablet 200 mg
+lidocaine-EPINEPhrine 0.5 %-1:200,000 injection 
+LORazepam (ATIVAN) 2 mg/mL injection
+oxyCODONE (ROXICODONE) tablet 10-15 mg 
+",Right MTL,
+EC180,43,M,European,White or Caucasian,Multifocal Epilepsy - both hippocampi,Left,Right,37,L Temporal,No,Mild depression/Mild Anxiety,Yes,Yes,,"LORazepam (ATIVAN) 1 mg tablet
+OXcarbazepine (TRILEPTAL) 600 mg tablet
+diclofenac (VOLTAREN) 50 mg EC tablet
+escitalopram oxalate (LEXAPRO) 20 mg tablet
+oxyCODONE (ROXICODONE) 5 mg tablet",Yes,
+EC181,30,F,,,"Herald spike broadly involving anterior and posterior STG, subtemporal region, anterior inferior frontal gyrus, cortex overlying hippocampus. Seizure evolves maximally over
+temporal lobe (including posterior temporal and subtemporal region)",NA,Left,,No,Yes- on schedule for November,NA - no neuropsych,no,no,,"brivaracetam (BRIVIACT) 100 mg tablet
+folic acid (FOLVITE) 1 mg tablet
+lacosamide (VIMPAT) 200 mg tablet
+topiramate (TOPAMAX) 25 mg tablet
+HYDROcodone-acetaminophen (NORCO) 5-325 mg tablet",No,
+EC182,51,F,Not Hispanic/ Latino,Black or African American,L Lateral Temporal Cortex centered over Middle temporal gyrus,,Right,40,L ATL,No,No,no,no,,"acetaminophen (OFIRMEV) IV 1,000 mg 
+acetaminophen (TYLENOL) gelcap 1,000 mg
+fentaNYL (PF) (SUBLIMAZE) injection 12.5-50 mcg
+HYDROmorphone (DILAUDID) injection syringe 0.2-0.5 mg
+lacosamide (VIMPAT) injection 200 mg 
+levETIRAcetam (KEPPRA XR) 24 hr tablet 2,000 mg 
+lidocaine (PF) (XYLOCAINE) 100 mg/5 mL (2 %) injection 
+LORazepam (ATIVAN) 2 mg/mL injection 
+meperidine (DEMEROL) 25 mg/mL injection 12.5 mg 
+midazolam (PF) (VERSED) 5 mg/mL injection 5 mg 
+naloxone (NARCAN) injection 0.1 mg
+oxyCODONE (ROXICODONE) tablet 5 mg",MTLE,
+EC183,49,F,European,Other,Left Temporal Lobe,NA,Right,30,Left Anteriotemporal Lobectomy,No,Minimal Reports of Depression,no,no,,"dexamethasone (DECADRON)
+HYDROmorphone (DILAUDID)
+lamoTRIgine (LAMICTAL) 200 mg tablet
+acetaZOLAMIDE (DIAMOX)",Yes,
+EC184,53,M,European,White,"""multi-focal epilepsy with seizures likely arising from the Left frontal pole encephalocele area based on clinical semiology and ictal scalp EEG, but poorly localized typical seizures during SEEG (possibly frontal-related onset but very quickly involving temporal) and a potential independent ictogenic focus in the Left mesial / hippocampal region with unclear clinical significace """,Na,Right,22,Left Frontal Resection,No,Yes,No,No,,"lamoTRIgine (LAMICTAL) 150 mg tablet
+oxyCODONE (ROXICODONE) 5 mg tablet
+lisinopril (PRINIVIL,ZESTRIL) 10 mg tablet 
+senna (SENOKOT) 8.6 mg tablet 
+
+
+",,
+EC185,45,F,,,Multifocal ictogenic regions in the frontal lobe (peri-lesional) and mesial temporal (hippocampal) lobes.,Left,Right,,No,Yes- but not implanted yet,,No,No,,"LORazepam (ATIVAN)
+carBAMazepine (TEGRETOL) 200 mg 
+",,
+EC186,37,F,,,left antior temporal lobe,,Right,25,ATLobectomy,No,Yes,Yes,Yes,,"lamoTRIgine (LAMICTAL XR) 200 mg 24 hr ER tablet        
+LORazepam (ATIVAN) 2 mg tablet        
+ondansetron (ZOFRAN) 4 mg tablet        
+sertraline (ZOLOFT) 100 mg tablet        
+gabapentin (NEURONTIN) 300 mg capsule 30 capsule 3 9/19/2018  
+levETIRAcetam (KEPPRA) 1,000 mg tablet 60 tablet 3 9/19/2018  
+Oral medical cannabis     9/19/2018  
+
+
+",,
+EC187,,,,,,,,,,,,,,,,,
+EC188,31,M,,,"2. Multiple seizures captured with broad onset over the temporal 
+grid (maximal over the inferior 2-3 rows) and posterior inferor 
+aspect of the parietal grid. There is no posterior margin to the 
+epileptogenic zone. This is the patient’s typical seizure type
+3. Multiple very focal seizures captured over the anterior 
+parietal grid (GP12, 21) with minimal spread, associated with 
+left facial twitching that emerged on 10/18. Per history, this is 
+a rare seizure type for the patient.
+4. Multiple very focal subclinical seizures captured over the 
+mid-temporal grid (GT13, 21) with minimal spread that emerged on 
+10/18.",,Right,13,No,YES,No,No,No,,"lamoTRIgine (LAMICTAL) 150 mg tablet levETIRAcetam (KEPPRA) 750 mg tablet   topiramate (TOPAMAX) 200 mg tablet  
+","lamoTRIgine (LAMICTAL) 150 mg tablet levETIRAcetam (KEPPRA) 750 mg tablet   topiramate (TOPAMAX) 200 mg tablet  
+",
+EC189,,,,,,,,,,,,,,,,,
+EC190,,,,,,,,,,,,,,,,,
+EC191,,,,,,,,,,,,,,,,,
+EC192,33,M,,,"R perisylvian polymicrogyria based on concordant semiology, ictal scalp EEG (R-side), and lesional MRI. SEEG showing onset in perisylvian, anterior portion lesion with rapid spread anteriorly and posteriorly",,R,23,No,YES,Yes,No,No,No,"
+ 
+ Clobazam (ONFI) 10 mg TAB tablet 
+ Lamotrigine (LAMICTAL XR) 300 mg 24 hr ER tablet 
+ Lamotrigine (LAMICTAL) 150 mg tablet 
+ Temazepam (RESTORIL) 30 mg capsule",,
+KP01,54,F,,,,,,,yes,,,,No,,,Left MTL,
+KP06,25,M,,,,,,,yes,,,,Yes,,,Right MTL,
+KP09,40,M,,,,,,,no,,,,Np,,,Left MTL,
+KP20,32,M,,,,,,,no,,,,No,,,,
+KP27,32,M,,,,,,,yes,Yes,,,Yes,,,Right MTL,
